@@ -1,4 +1,4 @@
-Dataset should be downloaded with this link into the same folder:
+Dataset should be downloaded with this link into the directory of the jupyter file:
 https://drive.google.com/file/d/1SQ4L0tCT1rVGV7u_0AvAwrPNLw2l_uAn/view?usp=sharing
 
 # Pattern-Recognition-and-Data-Analysis-for-Behavioural-Economics
