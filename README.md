@@ -25,9 +25,15 @@ The dataset contains rows which represent a Product Page of a specific product v
 ⦁	totalSaved: Total sume the user saved when he purchased sales (Products that are on sale) products.
 
 ⦁	saleProducts: Total sale product purchased.
+
 ⦁	nonSaleProducts: Total non sale products purchased.
+
 ⦁	totalRevenue:  In case the user viewed that Product Page and at the end of the visit checked out, the revenue is the total sum of the purchase.
+
 ⦁	checkout: 1 if the user viewed that Product Page and checked out in the end, and 0 if not.
+
 ⦁	amount: Total amount of that product purchased in the end.
+
 ⦁	'2.1.1', '2.6.2', '2.4.4', '2.24.1', '2.9.1', '2.91.1', '2.9.5', '2.4.2': These are the incentiveIDs. Each incentive has an IncentiveID. These variables show whether these incentives were shown during the Product Page view
+
  
