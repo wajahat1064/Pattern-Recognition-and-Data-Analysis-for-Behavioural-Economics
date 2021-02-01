@@ -2,7 +2,7 @@ Dataset should be downloaded with this link into the directory of the jupyter fi
 https://drive.google.com/file/d/1SQ4L0tCT1rVGV7u_0AvAwrPNLw2l_uAn/view?usp=sharing
 
 # Pattern Recognition and Data Analysis for Behavioural-Economics
-The dataset contains rows which represent a Product Page of a specific product viewed during a user visit and also the information whether the users checked out in the end. The user can view  the same product multiple times during the same visit, hence multiple according rows will be shown.
+The dataset contains rows which represent a Product Page of a specific product viewed during a user visit and also the information whether the users checked out in the end. The user can view  the same product multiple times during the same visit, hence multiple rows will be shown.
 
 
 ## Dataset variables description:
