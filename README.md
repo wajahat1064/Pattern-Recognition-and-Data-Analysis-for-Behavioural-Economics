@@ -4,6 +4,15 @@ https://drive.google.com/file/d/1SQ4L0tCT1rVGV7u_0AvAwrPNLw2l_uAn/view?usp=shari
 # Pattern Recognition and Data Analysis for Behavioural-Economics
 The dataset contains rows which represent a Product Page of a specific product viewed during a user visit and also the information whether the users checked out in the end. The user can view  the same product multiple times during the same visit, hence multiple rows will be shown.
 
+# CONCLUSIONS:
+* Incentives overall have a positive correlation with cart:add, checkout and amount
+* Incentives: '2.9.1' and '2.91.1' have the best conversion rate when they are shown
+* Incentive: '2.1.1', although, is shown 244K times but only 10-15K is actually converted into cart:add,amount
+* Prices with X7.99 have a much better conversion rate than X9.99 except at 17.99 and 19.99 mainly because the price is already small
+* All other incentives have a similiar low conversion rate
+* Cart:add>checkout>amount although conversion rates of individual incentives with them are checkout>cart:add>amount
+* Checkout should be reviewed since it stays 1 if it's clicked once by a tempSessionID
+* Revenue, ID, date etc are not correlated to cart:add,checkout and amount
 
 ## Dataset variables description:
 ⦁	date: The date when the user visited the Product Page.
